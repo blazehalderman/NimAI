@@ -20,4 +20,3 @@ An AI that teaches itself to play Nim through reinforcement learning.
   AI chose to take 1 from pile 2.
 ```
 Nim is a mathematical game of strategy in which two players take turns removing (or "nimming") objects from distinct heaps or piles. On each turn, a player must remove at least one object, and may remove any number of objects provided they all come from the same heap or pile. Depending on the version being played, the goal of the game is either to avoid taking the last object or to take the last object.
-![440px-NimGame svg](https://user-images.githubusercontent.com/18132230/116026555-d4329a00-a607-11eb-8d25-7c0f356998f0.png)
